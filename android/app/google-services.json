@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285719122281",
+    "project_id": "drive-ez",
+    "storage_bucket": "drive-ez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285719122281:android:322b55938a8625ec05edf8",
+        "android_client_info": {
+          "package_name": "com.electron.drive_ez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285719122281-n7f57ctvdj24fh6dtv8384cbqabl3nif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0lqNaZqCFylD51s4El_3l6m2Vl6YMQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285719122281-n7f57ctvdj24fh6dtv8384cbqabl3nif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
